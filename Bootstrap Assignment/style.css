@@ -1,0 +1,12 @@
+/* Default light mode styles */
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  /* Dark mode styles */
+  body.dark-mode {
+    background-color: #343a40;
+    color: #adb5bd;
+  }
+  
